@@ -1,0 +1,28 @@
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\R10546040THKuoAss09.exe.config
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\R10546040THKuoAss09.exe
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\R10546040THKuoAss09.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\TSPBenchmark.dll
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\TSPBenchmark.xml
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.MainForm.resources
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.Properties.Resources.resources
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.GenerateResource.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.CopyComplete
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.exe
+C:\Users\Josey\Desktop\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.pdb
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\R10546040THKuoAss09.exe.config
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\R10546040THKuoAss09.exe
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\R10546040THKuoAss09.pdb
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\TSPBenchmark.dll
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\bin\Debug\TSPBenchmark.xml
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.MainForm.resources
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.Properties.Resources.resources
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.GenerateResource.cache
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.csproj.CopyComplete
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.exe
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoAss09Solution\R10546040THKuoAss09\obj\Debug\R10546040THKuoAss09.pdb
