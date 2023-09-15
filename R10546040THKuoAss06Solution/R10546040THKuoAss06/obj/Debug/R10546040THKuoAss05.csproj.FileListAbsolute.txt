@@ -1,0 +1,11 @@
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\bin\Debug\R10546040THKuoAss05.exe.config
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\bin\Debug\R10546040THKuoAss05.exe
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\bin\Debug\R10546040THKuoAss05.pdb
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\obj\Debug\R10546040THKuoAss05.csproj.AssemblyReference.cache
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\obj\Debug\R10546040THKuoAss05.csproj.SuggestedBindingRedirects.cache
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\obj\Debug\R10546040FuzzySetNamespace.Properties.Resources.resources
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\obj\Debug\R10546040THKuoAss05.csproj.GenerateResource.cache
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\obj\Debug\R10546040THKuoAss05.csproj.CoreCompileInputs.cache
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\obj\Debug\R10546040THKuoAss05.exe
+C:\Users\josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\obj\Debug\R10546040THKuoAss05.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss05Solution\R10546040THKuoAss05\obj\Debug\R10546040FuzzySetNamespace.MyForm.resources
