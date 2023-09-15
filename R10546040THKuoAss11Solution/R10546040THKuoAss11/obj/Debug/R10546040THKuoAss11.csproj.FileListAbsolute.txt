@@ -1,0 +1,11 @@
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\bin\Debug\R10546040THKuoAss11.exe.config
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\bin\Debug\R10546040THKuoAss11.exe
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\bin\Debug\R10546040THKuoAss11.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\obj\Debug\R10546040THKuoAss11.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\obj\Debug\R10546040THKuoAss11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\obj\Debug\R10546040THKuoAss11.MainForm.resources
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\obj\Debug\R10546040THKuoAss11.Properties.Resources.resources
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\obj\Debug\R10546040THKuoAss11.csproj.GenerateResource.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\obj\Debug\R10546040THKuoAss11.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\obj\Debug\R10546040THKuoAss11.exe
+C:\Users\Josey\Desktop\R10546040THKuoAss11Solution\R10546040THKuoAss11\obj\Debug\R10546040THKuoAss11.pdb
