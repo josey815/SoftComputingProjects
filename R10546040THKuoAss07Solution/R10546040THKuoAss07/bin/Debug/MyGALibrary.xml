@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyGALibrary</name>
+    </assembly>
+    <members>
+        <member name="M:MyGALibrary.BinaryGA.GenerateAMutatedChild(System.Int32,System.Int32)">
+            <summary>
+            PopulationSize-based mutation
+            </summary>
+            <param name="parentIdx"></param>
+            <param name="childIdx"></param>
+        </member>
+    </members>
+</doc>

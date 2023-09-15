@@ -1,0 +1,7 @@
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\bin\Debug\MyGALibrary.xml
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\bin\Debug\MyGALibrary.dll
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\bin\Debug\MyGALibrary.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\obj\Debug\MyGALibrary.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\obj\Debug\MyGALibrary.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\obj\Debug\MyGALibrary.dll
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\obj\Debug\MyGALibrary.pdb
