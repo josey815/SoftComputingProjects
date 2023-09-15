@@ -1,0 +1,16 @@
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\bin\Debug\R10546040THKuoAss10.exe.config
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\bin\Debug\R10546040THKuoAss10.exe
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\bin\Debug\R10546040THKuoAss10.pdb
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\bin\Debug\COPBenchmark.dll
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\bin\Debug\TeeChart.dll
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\bin\Debug\COPBenchmark.xml
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\bin\Debug\TeeChart.xml
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoFinalProject.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoFinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoAss10.Form1.resources
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoAss10.Properties.Resources.resources
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoFinalProject.csproj.GenerateResource.cache
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoFinalProject.csproj.CopyComplete
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoAss10.exe
+C:\Users\Josey\Desktop\SC HW\R10546040THKuoFinalProject\R10546040THKuoFinalProject\obj\Debug\R10546040THKuoAss10.pdb
