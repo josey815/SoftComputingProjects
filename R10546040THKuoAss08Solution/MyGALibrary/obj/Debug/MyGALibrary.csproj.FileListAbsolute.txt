@@ -1,0 +1,16 @@
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\bin\Debug\MyGALibrary.xml
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\bin\Debug\MyGALibrary.dll
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\bin\Debug\MyGALibrary.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\obj\Debug\MyGALibrary.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\obj\Debug\MyGALibrary.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\obj\Debug\MyGALibrary.dll
+C:\Users\Josey\Desktop\R10546040THKuoAss07Solution\MyGALibrary\obj\Debug\MyGALibrary.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\bin\Debug\MyGALibrary.xml
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\bin\Debug\MyGALibrary.dll
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\bin\Debug\MyGALibrary.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\obj\Debug\MyGALibrary.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\obj\Debug\MyGALibrary.GAControl.resources
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\obj\Debug\MyGALibrary.csproj.GenerateResource.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\obj\Debug\MyGALibrary.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\obj\Debug\MyGALibrary.dll
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\MyGALibrary\obj\Debug\MyGALibrary.pdb

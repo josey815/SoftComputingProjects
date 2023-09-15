@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyGALibrary</name>
+    </assembly>
+    <members>
+        <member name="M:MyGALibrary.BinaryGA.GenerateAMutatedChild(System.Int32,System.Int32)">
+            <summary>
+            PopulationSize-based mutation
+            </summary>
+            <param name="parentIdx"></param>
+            <param name="childIdx"></param>
+        </member>
+        <member name="M:MyGALibrary.ContinuousGA.#ctor(System.Int32,System.Double[],System.Double[],MyGALibrary.OptimizationType,MyGALibrary.ObjectiveFunction{System.Double})">
+            <summary>
+            
+            </summary>
+            <param name="numberOfVariables"></param>
+            <param name="lowerBounds"></param>
+            <param name="upperBounds"></param>
+            <param name="optimizationType"></param>
+            <param name="objectiveEvaluationFunction"></param>
+        </member>
+        <member name="F:MyGALibrary.GAControl`1.components">
+            <summary> 
+            設計工具所需的變數。
+            </summary>
+        </member>
+        <member name="M:MyGALibrary.GAControl`1.Dispose(System.Boolean)">
+            <summary> 
+            清除任何使用中的資源。
+            </summary>
+            <param name="disposing">如果應該處置受控資源則為 true，否則為 false。</param>
+        </member>
+        <member name="M:MyGALibrary.GAControl`1.InitializeComponent">
+            <summary> 
+            此為設計工具支援所需的方法 - 請勿使用程式碼編輯器修改
+            這個方法的內容。
+            </summary>
+        </member>
+    </members>
+</doc>

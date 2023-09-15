@@ -1,0 +1,15 @@
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\bin\Debug\R10546040THKuoAss07.exe.config
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\bin\Debug\R10546040THKuoAss07.exe
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\bin\Debug\R10546040THKuoAss07.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\bin\Debug\MyGALibrary.dll
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\bin\Debug\MyGALibrary.pdb
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\bin\Debug\MyGALibrary.xml
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss08.csproj.AssemblyReference.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss08.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss07.MainForm.resources
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss07.Properties.Resources.resources
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss08.csproj.GenerateResource.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss08.csproj.CoreCompileInputs.cache
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss08.csproj.CopyComplete
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss07.exe
+C:\Users\Josey\Desktop\R10546040THKuoAss08Solution\R10546040THKuoAss08\obj\Debug\R10546040THKuoAss07.pdb
