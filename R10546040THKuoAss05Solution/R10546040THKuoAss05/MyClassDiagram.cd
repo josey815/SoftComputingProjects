@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="R10546040FuzzySetNamespace.MamdaniRule">
+    <Position X="6.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAABAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>MamdaniRule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.FuzzySet">
+    <Position X="0.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIAAAAQRAEAEAEYBECAAAQBAAABIgAAAABECCQAEA=</HashCode>
+      <FileName>FuzzySet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.GaussianFuzzySet">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAABAAAAAAAAAAAAAAIAEA=</HashCode>
+      <FileName>GaussianFuzzySet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.UnaryFSOperator" Collapsed="true">
+    <Position X="12" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAYAAAAEAAAAAAAAAAAAAAAAAAAIAAAACAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.Negate" Collapsed="true">
+    <Position X="8.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.ValueCut" Collapsed="true">
+    <Position X="15.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.Very" Collapsed="true">
+    <Position X="4.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.MoreOrLess" Collapsed="true">
+    <Position X="11" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.Extremely" Collapsed="true">
+    <Position X="17.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.Intensification" Collapsed="true">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.Diminisher" Collapsed="true">
+    <Position X="13.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.Scale" Collapsed="true">
+    <Position X="20" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnaryFSOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="R10546040FuzzySetNamespace.UnaryOperatedFS" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAABAAAAAAAAAAAAAAAAAEAAAAAgEA=</HashCode>
+      <FileName>UnaryOperatedFS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
